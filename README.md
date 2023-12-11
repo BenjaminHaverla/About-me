@@ -11,6 +11,6 @@ In 2020, word about me and my work reached some people, leading me to create vid
 ![text description](Images/marian_cekovsky2.JPG)
 ![text description](Images/ssosta_ceremony.JPG)
 ![text description](Images/ssostatv_christmas.JPG)
-![text description](Images/ssostatv_green.jpgg)
+![text description](Images/ssostatv_green.jpg)
 
 ## [BACK TO THE MAIN PAGE](https://github.com/BenjaminHaverla/First-impression-presentation.git)
