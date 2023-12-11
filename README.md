@@ -7,5 +7,10 @@ My way to filmmaking was strange. When I was young I played a lot of computer ga
 In 2020, word about me and my work reached some people, leading me to create videos for clients. Over time, I created my first international short film, blending live-action and animated elements. Garnering awards and nominations, I chose to step into the background actor role, gaining insights into larger-scale film productions. Subsequently, I became an Animation/Film instructor for a kids' camp, held annually for one week. Currently, I'm gaining valuable experience as an intern in Berlin through Erasmus+. During this period, I'm also preparing a new international music video.
 
 ![text description](Images/lee_aremberg.png)
+![text description](Images/marian_cekovsky.JPG)
+![text description](Images/marian_cekovsky2.JPG)
+![text description](Images/ssosta_ceremony.JPG)
+![text description](Images/ssostatv_christmas.JPG)
+![text description](Images/ssostatv_green.jpgg)
 
 ## [BACK TO THE MAIN PAGE](https://github.com/BenjaminHaverla/First-impression-presentation.git)
